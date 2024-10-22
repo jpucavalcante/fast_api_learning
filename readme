@@ -1,1 +1,7 @@
 Simple api made with FastAPI, runned by Uvicorn and tested/populated with Postman
+
+# How to run:
+Clone git repositiry
+Install all libraries and postman
+run: python3 -m uvicorn main:app --reload
+Open postman, load and run the todo_requests collection
